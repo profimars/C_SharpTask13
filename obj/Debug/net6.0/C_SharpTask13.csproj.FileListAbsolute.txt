@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\bin\Debug\net6.0\C_SharpTask13.exe
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\bin\Debug\net6.0\C_SharpTask13.deps.json
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\bin\Debug\net6.0\C_SharpTask13.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\bin\Debug\net6.0\C_SharpTask13.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\bin\Debug\net6.0\C_SharpTask13.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\refint\C_SharpTask13.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\C_SharpTask13.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230226\C_SharpTask13\obj\Debug\net6.0\ref\C_SharpTask13.dll
